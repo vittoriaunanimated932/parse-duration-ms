@@ -1,6 +1,6 @@
 {
 	"name": "parse-duration-ms",
-	"version": "0.0.0",
+	"version": "0.1.0",
 	"description": "Parse duration strings to milliseconds",
 	"license": "MIT",
 	"repository": "sindresorhus/parse-duration-ms",
